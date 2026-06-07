@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release.",
+  "pub_date": "2026-06-07T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTdOa0YyVFZyMzhBc2ZReVdTODFYUWtaSmRnemxJa2ROMlpERFp0SmlyamRHQ09mUS9ZUWg4VlJJdmFUa3BvS1VyazhpNUFhL1pTZWVaWFhzbGxiOU1MTGxydVd2QXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQ5NzI2CWZpbGU6TG9jaCBTY2hlZHVsZXJfMC4xLjBfeDY0LXNldHVwLmV4ZQpwSTlGdFlCRm44Vnpkd2hGYVMveDdGUmI2KzJ2RXdYZTRSaWRnSUx6d0NoSk1wMnc1MHVCRWpFMjNMdG1SZ082VEZiQnRNU0lnZ2k2RjFhYm5xVGhDZz09Cg==",
+      "url": "https://github.com/loch-suite/loch-scheduler-releases/releases/download/v0.1.0/Loch.Scheduler_0.1.0_x64-setup.exe"
+    }
+  }
+}
